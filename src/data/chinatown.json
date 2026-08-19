@@ -1,0 +1,112 @@
+{
+ "places": [
+  {
+   "name": "Phoenix Restaurant",
+   "name_zh": "金凤",
+   "address": "2131 S Archer Ave, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Cantonese dim sum (rolling carts + menu)",
+   "signature": "HK-style BBQ pork, dim sum cart classics (shrimp dumplings, shu mai)",
+   "rating_note": "Google 4.1★ (1,697 reviews); still gets weekend lines, reviews as recent as 2 months ago call it 'awesome,' though quality is described as inconsistent ('hit and miss') by a regular.",
+   "note": "Verified open and active via Google Maps — recent reviews (weeks to 2 months old), current hours posted. One of the original cart-service dim sum houses in Chinatown, alongside MingHin and Triple Crown.",
+   "source_urls": [
+    "https://www.google.com/maps/place/Phoenix+Restaurant"
+   ]
+  },
+  {
+   "name": "Ken Kee Restaurant Hong Kong",
+   "name_zh": "强记",
+   "address": "2129 S China Pl, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Hong Kong-style cha chaan teng / Cantonese cafe",
+   "signature": "Crispy pan-fried pork dumplings, HK cafe classics",
+   "rating_note": "Google 4.0★ (1,305 reviews).",
+   "note": "'强记' romanizes as 'Ken Kee' in Cantonese (强=Keung/Ken, 记=Kee) — this is the same restaurant referenced as 'Keung Kee.' Confirmed open, current hours posted, active reviews.",
+   "source_urls": [
+    "https://www.google.com/maps/place/Ken+Kee+Restaurant+Hong+Kong"
+   ]
+  },
+  {
+   "name": "Grand Palace",
+   "name_zh": "口福阁",
+   "address": "225 W 26th St, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Authentic Cantonese, late-night dim sum",
+   "signature": "Five-spice duck, shrimp in salted duck egg yolk, wontons",
+   "rating_note": "Google 4.5★ (443 reviews) — one of the highest ratings of any Chinatown Cantonese spot.",
+   "note": "Confirmed the '口福阁' = Grand Palace mapping via Reddit r/chicagofood, Yelp, Instagram, and a Chicago Chinese-community business directory — multiple independent sources agree. Slightly south of the main Wentworth/Archer strip (near 26th & Wentworth), a bit of a walk, women- and Asian-owned, known among locals as an under-the-radar authentic spot and a good late-night group dim sum option.",
+   "source_urls": [
+    "https://www.reddit.com/r/chicagofood/",
+    "https://www.yelp.com/biz/grand-palace-chicago",
+    "https://www.chowbus.com/blog"
+   ]
+  },
+  {
+   "name": "Xi'an Cuisine",
+   "name_zh": "西安小吃",
+   "address": "225 W Cermak Rd, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Northern Chinese / Shaanxi street food",
+   "signature": "Rou jia mo (Chinese 'burger'), cumin lamb flatbread, hand-pulled noodles, Biang Biang noodles, lamb soup",
+   "rating_note": "Google 4.1★ (816 reviews), BYO policy.",
+   "note": "Confirmed open, very active — photos from 5 days prior, reviews from a customer of '8 years.' Reviews are split on the soup's broth intensity but flatbreads/roujiamo are consistently praised.",
+   "source_urls": [
+    "https://www.google.com/maps/place/Xi%27an+Cuisine"
+   ]
+  },
+  {
+   "name": "Gao's BBQ & Crab",
+   "name_zh": "老高烧烤",
+   "address": "232 W 22nd Pl, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Chinese BBQ / late-night skewers",
+   "signature": "Lamb, beef, pork and tofu-skin skewers, grilled oysters, dan dan noodles",
+   "rating_note": "Google 4.3★ (1,169 reviews).",
+   "note": "'Gao' (高) matches 'Lao Gao' — confirmed open with an active owner promo post from May 2026 and photos from the last week. Women- and Asian-owned. Gets very busy on weekends.",
+   "source_urls": [
+    "https://www.google.com/maps/place/Gao%27s+BBQ+%26+Crab"
+   ]
+  },
+  {
+   "name": "Tiger Sugar",
+   "name_zh": "老虎堂",
+   "address": "2116 S Archer Ave 1st Floor, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Taiwanese bubble tea chain",
+   "signature": "Brown sugar boba milk tea, pastries/egg tarts",
+   "rating_note": "Google 3.8★ (454 reviews) — noticeably lower than the other Chinatown boba options.",
+   "note": "Open, active recent reviews (photos 12 days old), but a recent 1-week-old review flagged hygiene/service problems that the owner responded to publicly. Given the softer rating, Kung Fu Tea (4.4★) or Uni Uni Boba (4.4★), both also in Chinatown, currently outscore it — worth mentioning as alternates.",
+   "source_urls": [
+    "https://www.google.com/maps/place/Tiger+Sugar"
+   ]
+  },
+  {
+   "name": "MingHin Cuisine",
+   "name_zh": "明轩",
+   "address": "2168 S Archer Ave, Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Modern Cantonese dim sum, hot pot, seafood",
+   "signature": "Shrimp dumplings, Peking duck, hot pot, cha siu bao",
+   "rating_note": "Google 4.3★ — by far the most-reviewed restaurant in Chinatown at 8,678 reviews. Recent reviews (2 weeks–2 months) are mixed: praised for busyness/energy and solid dim sum, but multiple recent reviewers flag small portions for the price and inconsistent quality versus its peak years.",
+   "note": "Confirmed open and thriving as the default 'safe' tourist-friendly Chinatown dim sum stop — big, modern, iPad menus, easy reservations. This is the spot the Xiaohongshu poster's critique targets; see honest_assessment.",
+   "source_urls": [
+    "https://www.google.com/maps/place/MingHin+Cuisine+-+Chinatown"
+   ]
+  },
+  {
+   "name": "Lao Sze Chuan",
+   "name_zh": "老四川",
+   "address": "2172 S Archer Ave (Chinatown Square Plaza), Chicago, IL 60616",
+   "status": "open",
+   "cuisine": "Sichuan",
+   "signature": "Sichuan peppercorn chicken, mapo tofu, hot pot",
+   "rating_note": "Google 3.9★ (1,665 reviews) — down from its earlier reputation; reviews are a mixed bag praising the spice level and portions but knocking service and hot pot consistency versus newer competitors.",
+   "note": "Tony Hu's original Chinatown flagship, still open with an active owner post from April 2026. It put Sichuan food on Chicago's map in the 2000s but has clearly been outpaced on quality by newer, more focused Sichuan spots (Chef Xiong, MCCB) — a common local complaint. Note there are separate, lower-rated Lao Sze Chuan locations Downtown (3.7★) and Grant Park (3.9★) — don't confuse them.",
+   "source_urls": [
+    "https://www.google.com/maps/place/Lao+Sze+Chuan"
+   ]
+  }
+ ],
+ "getting_there": "CTA Red Line to the Cermak-Chinatown stop. From the Loop (e.g. Lake/State), it's a direct ~8-minute ride southbound on the Red Line (toward 95th/Dan Ryan), trains every ~10 minutes, 24-hour service. The station (138 W Cermak Rd) is elevated and about a half-block from the Chinatown gate/Wentworth Ave, putting you within a 5-10 minute walk of most of the restaurants above except Grand Palace and Gao's BBQ, which sit a few blocks south near 22nd/26th St (still walkable, ~10-15 min, or a short rideshare). CTA buses #21, #24, and #62 also serve the station for connections. Total door-to-door from downtown is realistically 15-25 minutes.",
+ "honest_assessment": "The Xiaohongshu take that MingHin \"isn't worth it\" next to Bay Area Cantonese is fair as a narrow claim, and unfair as a broad one. On pure Cantonese/dim sum craft — the thing MingHin is being judged against — the Bay Area (and NYC's Flushing/Manhattan Chinatown) genuinely wins: Bay Area Cantonese benefits from a much larger, longer-established Cantonese immigrant population, more direct HK chef pipelines, fiercer competition among dozens of dedicated dim sum houses, and fresher live-seafood sourcing. MingHin itself is a decent, modernized, tourist-accessible version of that cuisine — reliable, clean, English-friendly, easy to reserve — but recent Google reviews (2 weeks to 2 months old) independently echo the Xiaohongshu complaint: small portions for the price, food that's \"hit and miss,\" and a room that isn't as busy as it should be for a place with that reputation. So: the critique of MingHin specifically checks out. Grand Palace (口福阁) and Triple Crown are the better, more locally-loved Cantonese comparisons in Chicago and would be a fairer benchmark than MingHin.\n\nWhere Chicago Chinatown genuinely does NOT lose, and in some lanes wins outright: (1) Northern Chinese / Xi'an street food — Xi'an Cuisine and the broader Cermak Rd cluster (Qing Xiang Yuan Dumplings at 4.6★/3,371 reviews, Hing Kee) are as good as almost anything outside a dedicated Xi'an neighborhood in NYC (Xi'an Famous Foods) or SGV; (2) Sichuan hot pot — Qiao Lin Hotpot (4.6★) gets \"most authentic hot pot in the US\" praise in reviews, a real claim given Chicago's newer wave of Sichuan chefs; (3) skewers/BBQ culture — Gao's BBQ and the late-night grilled-meat scene rival anything in NYC Chinatown and is arguably more developed than most of the Bay Area's suburban Chinese food, which skews toward sit-down restaurants over street-BBQ culture; (4) density and walkability — Chicago's Chinatown is compact, walkable, and (unlike SF Chinatown, which several Redditors independently describe as \"a little rundown\") still growing, with new openings (Hello Jasmine, MCCB, Chef Xiong) rather than the slow attrition SF and older NYC Chinatown blocks have seen from rising rents and suburbanization of the Chinese population.\n\nNet: Chicago Chinatown is not the equal of the Bay Area or NYC for top-end Cantonese seafood/dim sum — the population base and chef pipeline aren't there yet — but it's a legitimate, still-growing food destination that outperforms both coasts in the Sichuan/Northern-Chinese/hot pot/BBQ lanes, largely because its newer immigrant waves have skewed non-Cantonese. Judge it on the right cuisine and the \"not worth it\" take falls apart; judge it on Cantonese dim sum specifically against SF/NYC's best, and the Xiaohongshu poster has a point."
+}

@@ -1,0 +1,60 @@
+{
+ "origin": "State Street (runs north-south, divides East from West) and Madison Street (runs east-west, divides North from South)",
+ "units_per_mile": "800 address units = 1 mile in the standard system (i.e., 8 blocks per mile, ~100 numbers per standard block). Note: this is the *standard* rate adopted citywide by ordinance; a few older near-Loop south-side streets (Roosevelt Rd, Cermak Rd, 31st St) deviate from it — see caveats.",
+ "how_it_works": "Every address in Chicago is really a coordinate pair, even though only one number appears in the street address:\n1. Find State & Madison downtown — that's (0,0).\n2. Going along any EAST-WEST street (like Addison, Madison, Roosevelt), the number tells you how far EAST or WEST of State Street you are. \"1060 W Addison\" means 1060 units (≈1.3 mi) west of State St.\n3. Going along any NORTH-SOUTH street (like Michigan Ave, Halsted, Wacker), the number tells you how far NORTH or SOUTH of Madison Street you are. \"875 N Michigan Ave\" means 875 units (≈1.1 mi) north of Madison St.\n4. Because the rate is 800 per mile, dividing an address number by 800 gives you the approximate distance in miles from downtown in that direction — e.g., 3600 N ≈ 4.5 miles north of Madison.\n5. Practical trick for a visitor: to find where a numbered N-S street (e.g., \"3600 N\") crosses a named E-W street, or vice versa, remember key mile markers — every major arterial roughly 800 apart is a mile from the last (Madison=0, North Ave=1600N, Fullerton=2400N, Belmont=3200N, Addison=3600N, Irving Park=4000N going north; Roosevelt=1200S, Cermak=2200S, 31st=3100S, 47th=4700S going south; Halsted=800W, Ashland=1600W, Western=2400W, Kedzie=3200W going west; Michigan Ave=100E going east toward the lake).\n6. So an address like \"1060 W Addison St\" effectively encodes the full grid coordinate (3600 N, 1060 W) once you know Addison's own north-south position — which itself is defined by the same grid.",
+ "examples": [
+  {
+   "place": "United Center",
+   "address": "1901 W Madison St, Chicago",
+   "grid": "0 (on the Madison baseline), 1901 W"
+  },
+  {
+   "place": "Wrigley Field",
+   "address": "1060 W Addison St, Chicago",
+   "grid": "3600 N, 1060 W"
+  },
+  {
+   "place": "Art Institute of Chicago",
+   "address": "111 S Michigan Ave, Chicago",
+   "grid": "111 S, 100 E"
+  },
+  {
+   "place": "John Hancock Center (875 N Michigan)",
+   "address": "875 N Michigan Ave, Chicago",
+   "grid": "875 N, 100 E"
+  },
+  {
+   "place": "Chicago Water Tower",
+   "address": "806 N Michigan Ave, Chicago",
+   "grid": "806 N, 100 E"
+  },
+  {
+   "place": "Chicago Board of Trade Building",
+   "address": "141 W Jackson Blvd, Chicago",
+   "grid": "300 S (Jackson Blvd's own line), 141 W"
+  }
+ ],
+ "caveats": [
+  "Downtown/the Loop did not conform to the standard 800-per-mile grid until it was formally extended there on April 1, 1911 — pre-1909 addresses in the central area used a denser, inconsistent local numbering.",
+  "A handful of near-south-side streets deviate from the 800/mile rate: Roosevelt Rd (12th St) runs at 1,200 addresses/mile, Cermak Rd (22nd St) at 1,000/mile, and 31st St at 900/mile — an artifact of pre-1909 numbering that was never fully reconciled.",
+  "Diagonal streets (several following old Native American trails — Milwaukee Ave, Lincoln Ave, Ogden Ave, Elston Ave, Clybourn Ave, Archer Ave, Vincennes Ave, Clark St in parts) cut across the grid at an angle, so they don't carry a single fixed cross-grid number the way a true N-S or E-W street does, and their intersections with grid streets can be visually confusing.",
+  "Curving lakefront/river drives (Lake Shore Dr, Wacker Dr, Columbus Dr, Museum Campus Dr) don't hold a constant E/W or N/S position, so an address on them (e.g. Willis Tower's 233 S Wacker Dr) gives a reliable distance from Madison St but only an approximate east-west position — treat those as one-coordinate, not full-grid, addresses.",
+  "House numbers restart at the start of each new named street, and even-numbered addresses are conventionally on the north/west side of a street with odd numbers on the south/east side — useful for guessing which side of the street you want, but it's a convention, not a law with zero exceptions.",
+  "The system covers the City of Chicago and numbers carry into many (not all) adjoining suburbs that adopted the same baselines — a traveler crossing into a suburb with its own separate numbering system (e.g. Evanston, Oak Park in places) will see the grid logic stop applying cleanly."
+ ],
+ "confirmed": true,
+ "source_urls": [
+  "https://en.wikipedia.org/wiki/Chicago_address_system",
+  "https://en.wikipedia.org/wiki/Wrigley_Field",
+  "https://en.wikipedia.org/wiki/Willis_Tower",
+  "https://en.wikipedia.org/wiki/United_Center",
+  "https://en.wikipedia.org/wiki/Art_Institute_of_Chicago",
+  "https://en.wikipedia.org/wiki/Michigan_Avenue_(Chicago)",
+  "https://en.wikipedia.org/wiki/Roosevelt_Road",
+  "https://en.wikipedia.org/wiki/Addison_station_(CTA_Red_Line)",
+  "https://en.wikipedia.org/wiki/Chicago_Water_Tower",
+  "https://en.wikipedia.org/wiki/Jackson_Boulevard",
+  "https://en.wikipedia.org/wiki/Chicago_Board_of_Trade_Building",
+  "https://en.wikipedia.org/wiki/John_Hancock_Center"
+ ]
+}

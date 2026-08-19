@@ -1,0 +1,722 @@
+{
+ "tiers": [
+  {
+   "name": "Rubi's Tacos",
+   "tier": "strong"
+  },
+  {
+   "name": "Quesabirria Jalisco",
+   "tier": "strong"
+  },
+  {
+   "name": "Sushi Taku (Logan Square)",
+   "tier": "niche"
+  },
+  {
+   "name": "Bodega Taqueria y Tequila (West Loop)",
+   "tier": "niche"
+  },
+  {
+   "name": "Tacotlan",
+   "tier": "niche"
+  },
+  {
+   "name": "Johnnie's Beef",
+   "tier": "strong"
+  },
+  {
+   "name": "Al's #1 Italian Beef",
+   "tier": "strong"
+  },
+  {
+   "name": "Kong Dog",
+   "tier": "niche"
+  },
+  {
+   "name": "Frato's Culinary Kitchen (Frato's Pizza)",
+   "tier": "niche"
+  },
+  {
+   "name": "Manny's Cafeteria & Delicatessen",
+   "tier": "strong"
+  },
+  {
+   "name": "Pequod's Pizza",
+   "tier": "essential"
+  },
+  {
+   "name": "Lou Malnati's",
+   "tier": "strong"
+  },
+  {
+   "name": "Portillo's",
+   "tier": "essential"
+  },
+  {
+   "name": "HeungSeng Square (underground food court, formerly Richland Center)",
+   "tier": "strong"
+  },
+  {
+   "name": "Luella's Southern Kitchen",
+   "tier": "niche"
+  },
+  {
+   "name": "Giordano's (River North)",
+   "tier": "strong"
+  },
+  {
+   "name": "88 Marketplace Food Court (Chinatown)",
+   "tier": "strong"
+  },
+  {
+   "name": "Lao Sze Chuan (Chinatown)",
+   "tier": "niche"
+  },
+  {
+   "name": "Chicago-style Hot Dog (Portillo's River North)",
+   "tier": "niche"
+  },
+  {
+   "name": "Honeybear Cafe",
+   "tier": "niche"
+  },
+  {
+   "name": "360 CHICAGO - TILT",
+   "tier": "niche"
+  },
+  {
+   "name": "Skydeck Chicago - The Ledge",
+   "tier": "strong"
+  },
+  {
+   "name": "Chicago Architecture River Cruise (Wendella / CAC First Lady)",
+   "tier": "essential"
+  },
+  {
+   "name": "Chicago Riverwalk / Urban Kayaks",
+   "tier": "essential"
+  },
+  {
+   "name": "Chicago Mahogany Tours (Shermann \"Dilla\" Thomas)",
+   "tier": "strong"
+  },
+  {
+   "name": "Museum of Ice Cream Chicago",
+   "tier": "niche"
+  },
+  {
+   "name": "Color Factory Chicago",
+   "tier": "niche"
+  },
+  {
+   "name": "HeungSeng Square (formerly Richland Center) - the Chinatown underground food court",
+   "tier": "strong"
+  },
+  {
+   "name": "Ed Debevic's",
+   "tier": "niche"
+  },
+  {
+   "name": "Winter Garden, Harold Washington Library (9th floor)",
+   "tier": "strong"
+  },
+  {
+   "name": "Garden of the Phoenix (Osaka Garden), Jackson Park",
+   "tier": "niche"
+  },
+  {
+   "name": "Chicago Pedway (underground tunnel system)",
+   "tier": "niche"
+  },
+  {
+   "name": "International Museum of Surgical Science",
+   "tier": "niche"
+  },
+  {
+   "name": "Garfield Park Conservatory",
+   "tier": "strong"
+  },
+  {
+   "name": "Shermann 'Dilla' Thomas / Chicago Mahogany Tours",
+   "tier": "strong"
+  },
+  {
+   "name": "12th Street Beach",
+   "tier": "niche"
+  },
+  {
+   "name": "360 CHICAGO (John Hancock Center observation deck) + TILT",
+   "tier": "strong"
+  },
+  {
+   "name": "Millennium Park (Crown Fountain / Jay Pritzker Pavilion)",
+   "tier": "essential"
+  },
+  {
+   "name": "Willis Tower Skydeck",
+   "tier": "essential"
+  },
+  {
+   "name": "Navy Pier",
+   "tier": "strong"
+  },
+  {
+   "name": "World's Largest Starbucks Reserve Roastery",
+   "tier": "strong"
+  },
+  {
+   "name": "Art Institute of Chicago",
+   "tier": "essential"
+  },
+  {
+   "name": "Cloud Gate (\"The Bean\")",
+   "tier": "essential"
+  },
+  {
+   "name": "360 Chicago (John Hancock Observatory) — TILT",
+   "tier": "niche"
+  },
+  {
+   "name": "Adler Planetarium (north lawn / Solar Terrace)",
+   "tier": "essential"
+  },
+  {
+   "name": "Ping Tom Memorial Park",
+   "tier": "strong"
+  },
+  {
+   "name": "Chicagohenge (East Randolph St at Michigan Ave)",
+   "tier": "niche"
+  },
+  {
+   "name": "Chicago Riverwalk viewpoints / Promontory Point",
+   "tier": "strong"
+  },
+  {
+   "name": "Chicago Magic Lounge",
+   "tier": "strong"
+  },
+  {
+   "name": "Cindy's Rooftop (Chicago Athletic Association Hotel)",
+   "tier": "strong"
+  },
+  {
+   "name": "Replay Lincoln Park",
+   "tier": "niche"
+  },
+  {
+   "name": "Cafe Deko",
+   "tier": "niche"
+  },
+  {
+   "name": "Matcha Cita",
+   "tier": "niche"
+  },
+  {
+   "name": "LH Rooftop, LondonHouse Chicago",
+   "tier": "strong"
+  },
+  {
+   "name": "Ume Tea (Chinatown)",
+   "tier": "niche"
+  },
+  {
+   "name": "Old Joliet Prison",
+   "tier": "niche"
+  },
+  {
+   "name": "Indiana Dunes National Park (skyline mirage from the beach)",
+   "tier": "niche"
+  },
+  {
+   "name": "Tetto",
+   "tier": "niche"
+  },
+  {
+   "name": "Kinzie Street Bridge",
+   "tier": "niche"
+  },
+  {
+   "name": "South Pond Bridge, Lincoln Park",
+   "tier": "niche"
+  },
+  {
+   "name": "Fullerton Avenue Bridge / Lincoln Park lagoon area",
+   "tier": "niche"
+  },
+  {
+   "name": "Museum Campus lakefront (between Adler, Field Museum and Soldier Field)",
+   "tier": "strong"
+  },
+  {
+   "name": "Pilsen",
+   "tier": "essential"
+  },
+  {
+   "name": "Logan Square",
+   "tier": "strong"
+  },
+  {
+   "name": "West Loop",
+   "tier": "essential"
+  },
+  {
+   "name": "Chinatown",
+   "tier": "essential"
+  },
+  {
+   "name": "Wicker Park",
+   "tier": "niche"
+  },
+  {
+   "name": "Andersonville",
+   "tier": "niche"
+  },
+  {
+   "name": "Undercover Books",
+   "tier": "niche"
+  },
+  {
+   "name": "Armadillo's Pillow",
+   "tier": "niche"
+  },
+  {
+   "name": "Garrett Popcorn Shops",
+   "tier": "strong"
+  },
+  {
+   "name": "Zmzm Sweets",
+   "tier": "niche"
+  },
+  {
+   "name": "Goddess and the Baker",
+   "tier": "strong"
+  },
+  {
+   "name": "La Boulangerie & Co",
+   "tier": "niche"
+  },
+  {
+   "name": "Fat Peach Bakery",
+   "tier": "niche"
+  },
+  {
+   "name": "Daeji Dough Company",
+   "tier": "niche"
+  },
+  {
+   "name": "Do-Rite Donuts",
+   "tier": "strong"
+  },
+  {
+   "name": "Bing Chillin' Bites (at Gangnam Market)",
+   "tier": "niche"
+  }
+ ],
+ "duplicates": [
+  {
+   "canonical": "360 CHICAGO (John Hancock Center observation deck) + TILT",
+   "fold_in": [
+    "360 CHICAGO - TILT",
+    "360 Chicago (John Hancock Observatory) — TILT"
+   ]
+  },
+  {
+   "canonical": "Willis Tower Skydeck",
+   "fold_in": [
+    "Skydeck Chicago - The Ledge"
+   ]
+  },
+  {
+   "canonical": "HeungSeng Square (underground food court, formerly Richland Center)",
+   "fold_in": [
+    "HeungSeng Square (formerly Richland Center) - the Chinatown underground food court"
+   ]
+  },
+  {
+   "canonical": "Chicago Mahogany Tours (Shermann \"Dilla\" Thomas)",
+   "fold_in": [
+    "Shermann 'Dilla' Thomas / Chicago Mahogany Tours"
+   ]
+  },
+  {
+   "canonical": "Portillo's",
+   "fold_in": [
+    "Chicago-style Hot Dog (Portillo's River North)"
+   ]
+  },
+  {
+   "canonical": "Adler Planetarium (north lawn / Solar Terrace)",
+   "fold_in": [
+    "Museum Campus lakefront (between Adler, Field Museum and Soldier Field)"
+   ]
+  },
+  {
+   "canonical": "Chicago Riverwalk / Urban Kayaks",
+   "fold_in": [
+    "Chicago Riverwalk viewpoints / Promontory Point"
+   ]
+  },
+  {
+   "canonical": "South Pond Bridge, Lincoln Park",
+   "fold_in": [
+    "Fullerton Avenue Bridge / Lincoln Park lagoon area"
+   ]
+  }
+ ],
+ "day_plans": [
+  {
+   "days": 1,
+   "assumes": "Any day except Tuesday — the Art Institute is closed Tuesdays. If your only day is a Tuesday, open with Willis Tower Skydeck instead and add the Winter Garden at Harold Washington Library. Book the river cruise the night before; it sells out.",
+   "assumes_zh": "除周二以外的任何一天（芝加哥艺术博物馆周二闭馆）。如果你只有周二，改成上午先去威利斯大厦观景台，并加上哈罗德·华盛顿图书馆的 Winter Garden。建筑游船请提前一晚订票，经常售罄。",
+   "stops": [
+    {
+     "time": "09:30 morning",
+     "name": "Art Institute of Chicago",
+     "reason": "Arrive before the 10am open, shoot the bronze lions, then give two hours to the Impressionist wing — the single highest-value indoor stop in the city.",
+     "reason_zh": "赶在10点开门前到，先拍门口两只铜狮，然后用两小时逛印象派展厅——全城性价比最高的室内景点。"
+    },
+    {
+     "time": "11:45 late morning",
+     "name": "Cloud Gate (\"The Bean\")",
+     "reason": "Straight across the street from the museum, and the crowd underneath is still thin before noon.",
+     "reason_zh": "就在博物馆马路对面，正午之前豆子底下的人还不算多。"
+    },
+    {
+     "time": "12:15 midday",
+     "name": "Millennium Park (Crown Fountain / Jay Pritzker Pavilion)",
+     "reason": "Same park as the Bean — walk five minutes to the LED face towers and the Gehry bandshell.",
+     "reason_zh": "和大豆子同一个公园，步行五分钟即到皇冠喷泉的LED人脸塔和盖里设计的露天音乐厅。"
+    },
+    {
+     "time": "12:45 lunch",
+     "name": "Goddess and the Baker",
+     "reason": "One block west at 33 S Wabash — a fast sit-down lunch and the rainbow cake slice without leaving the Loop.",
+     "reason_zh": "往西一个街区（33 S Wabash），快速午餐加一块彩虹蛋糕，不用离开 Loop。"
+    },
+    {
+     "time": "14:00 afternoon",
+     "name": "Chicago Architecture River Cruise (Wendella / CAC First Lady)",
+     "reason": "Docks are a ten-minute walk north; 75-90 minutes on the water is the best orientation to the whole city you can buy.",
+     "reason_zh": "码头往北步行十分钟；75到90分钟的水上讲解，是了解整座城市最划算的方式。"
+    },
+    {
+     "time": "15:45 late afternoon",
+     "name": "Chicago Riverwalk / Urban Kayaks",
+     "reason": "You are already at river level when the boat lets you off — walk the 1.25 miles back east instead of taking the street.",
+     "reason_zh": "下船时人正好在河岸层，沿着1.25英里的河滨步道往东走回去，别走上面的马路。"
+    },
+    {
+     "time": "17:00 sunset",
+     "name": "Willis Tower Skydeck",
+     "reason": "Fifteen minutes southwest on foot; time The Ledge for golden hour and skip the 360 Chicago add-on entirely.",
+     "reason_zh": "步行十五分钟到西南边；把玻璃阳台安排在黄昏时段，360观景台的 TILT 加购项目可以完全跳过。"
+    },
+    {
+     "time": "19:00 dinner",
+     "name": "Portillo's",
+     "reason": "River North flagship is a straight walk north — Chicago dog and Italian beef settled in one counter order.",
+     "reason_zh": "往北直走即到 River North 旗舰店，一次点单就能同时解决芝加哥热狗和意式牛肉三明治。"
+    },
+    {
+     "time": "20:30 nightcap",
+     "name": "LH Rooftop, LondonHouse Chicago",
+     "reason": "Four blocks back toward the bridge; the terrace sits right over the river mouth with the skyline lit.",
+     "reason_zh": "往桥的方向走四个街区；露台正对芝加哥河入口，夜景天际线一览无余。"
+    }
+   ]
+  },
+  {
+   "days": 2,
+   "assumes": "Day 1 must not be a Tuesday (Art Institute closed). Day 2 works any day, but check Pilsen taqueria hours — several close early Sunday. Pilsen is the Pink Line, Chinatown is the Red Line, and West Loop is the Green/Pink Line, so this day is three short train hops, not walking.",
+   "assumes_zh": "第1天不要安排在周二（艺术博物馆闭馆）。第2天任意一天都可以，但要确认皮尔森塔可店的营业时间，周日部分店关得早。皮尔森走粉线、唐人街走红线、西环走绿线／粉线，这一天是三段短程地铁，不是步行连线。",
+   "stops": [
+    {
+     "time": "Day 1 · 09:30 morning",
+     "name": "Art Institute of Chicago",
+     "reason": "Start indoors before the crowds; two hours in the Impressionist wing.",
+     "reason_zh": "趁人少先进室内，用两小时看印象派展厅。"
+    },
+    {
+     "time": "Day 1 · 11:45 late morning",
+     "name": "Cloud Gate (\"The Bean\")",
+     "reason": "Across the street from the museum entrance.",
+     "reason_zh": "就在博物馆正门对面。"
+    },
+    {
+     "time": "Day 1 · 12:15 midday",
+     "name": "Millennium Park (Crown Fountain / Jay Pritzker Pavilion)",
+     "reason": "Same park — Crown Fountain and the Gehry bandshell are a five-minute walk.",
+     "reason_zh": "同一个公园，皇冠喷泉和盖里音乐厅步行五分钟。"
+    },
+    {
+     "time": "Day 1 · 12:45 lunch",
+     "name": "Goddess and the Baker",
+     "reason": "One block off the park at 33 S Wabash.",
+     "reason_zh": "离公园一个街区，33 S Wabash。"
+    },
+    {
+     "time": "Day 1 · 14:00 afternoon",
+     "name": "Chicago Architecture River Cruise (Wendella / CAC First Lady)",
+     "reason": "Ten minutes north to the docks; the cruise frames everything you will walk past later.",
+     "reason_zh": "往北十分钟到码头；这趟船会把你之后要走过的建筑一次讲清楚。"
+    },
+    {
+     "time": "Day 1 · 15:45 late afternoon",
+     "name": "Chicago Riverwalk / Urban Kayaks",
+     "reason": "Walk the riverfront back east; add a kayak hour if the weather holds.",
+     "reason_zh": "沿河岸往东走回去；天气好的话可以加一小时皮划艇。"
+    },
+    {
+     "time": "Day 1 · 17:00 sunset",
+     "name": "Willis Tower Skydeck",
+     "reason": "Golden hour on The Ledge, fifteen minutes southwest on foot.",
+     "reason_zh": "步行十五分钟到西南边，黄昏时段站上玻璃阳台。"
+    },
+    {
+     "time": "Day 1 · 19:00 dinner",
+     "name": "Portillo's",
+     "reason": "River North flagship — hot dog and Italian beef in one stop.",
+     "reason_zh": "River North 旗舰店，热狗和意式牛肉一次搞定。"
+    },
+    {
+     "time": "Day 1 · 20:30 nightcap",
+     "name": "LH Rooftop, LondonHouse Chicago",
+     "reason": "Four blocks south, terrace over the river mouth.",
+     "reason_zh": "往南四个街区，露台正对河口。"
+    },
+    {
+     "time": "Day 2 · 10:00 morning",
+     "name": "Pilsen",
+     "reason": "Pink Line to 18th St, then walk the 16th and 18th Street mural corridor west while the light is still soft.",
+     "reason_zh": "粉线坐到18街，趁光线还柔和时沿16街和18街的壁画走廊向西走。"
+    },
+    {
+     "time": "Day 2 · 12:00 lunch",
+     "name": "Rubi's Tacos",
+     "reason": "End the mural walk here — huitlacoche and squash-blossom tacos, counter service, cash-fast.",
+     "reason_zh": "壁画路线的终点，玉米黑穗菌和南瓜花塔可，柜台点餐，出餐很快。"
+    },
+    {
+     "time": "Day 2 · 13:00 second lunch",
+     "name": "Quesabirria Jalisco",
+     "reason": "Two tacos each, not a full order — it is a short walk and the birria ramen is worth splitting.",
+     "reason_zh": "每人两个塔可就好，别点整份；离得很近，芝士炖牛肉拉面值得分着尝。"
+    },
+    {
+     "time": "Day 2 · 14:30 afternoon",
+     "name": "Chinatown",
+     "reason": "Red Line one transfer to Cermak-Chinatown; walk Wentworth Ave south to north.",
+     "reason_zh": "红线转一次到 Cermak-Chinatown，沿 Wentworth 大道由南向北走。"
+    },
+    {
+     "time": "Day 2 · 15:00 snack",
+     "name": "88 Marketplace Food Court (Chinatown)",
+     "reason": "Ten stalls under one roof — roast meats and bubble tea to break up the walk, not a full meal.",
+     "reason_zh": "一栋楼里十来个摊位，烧腊配奶茶当中途补给，别吃太饱。"
+    },
+    {
+     "time": "Day 2 · 16:00 late afternoon",
+     "name": "Ping Tom Memorial Park",
+     "reason": "Five minutes west of Wentworth — the pagoda on the boardwalk with the river and skyline behind it.",
+     "reason_zh": "Wentworth 往西五分钟，木栈道上的中式亭子，背后是河与天际线。"
+    },
+    {
+     "time": "Day 2 · 18:00 golden hour",
+     "name": "Adler Planetarium (north lawn / Solar Terrace)",
+     "reason": "Red Line to Roosevelt, then east — the north lawn is the unobstructed full-skyline shot, and it is free.",
+     "reason_zh": "红线到 Roosevelt 再往东走；北草坪是毫无遮挡的完整天际线机位，而且免费。"
+    },
+    {
+     "time": "Day 2 · 19:30 dinner",
+     "name": "West Loop",
+     "reason": "Green or Pink Line back west to Morgan; Randolph and Fulton Market is the evening, not a daytime stop.",
+     "reason_zh": "绿线或粉线往西回到 Morgan 站；Randolph 街和 Fulton Market 属于夜晚，不适合白天来。"
+    }
+   ]
+  },
+  {
+   "days": 3,
+   "assumes": "Day 1 not on a Tuesday (Art Institute closed). Day 3 not on a Monday or Tuesday (Garfield Park Conservatory is closed Mon-Tue). Book Chicago Magic Lounge and the river cruise in advance; both sell out. If your three days include both a Monday and a Tuesday, run Day 3 first on the free weekday and push the Loop day to Wednesday.",
+   "assumes_zh": "第1天不要安排在周二（艺术博物馆闭馆）；第3天不要安排在周一或周二（加菲尔德公园温室周一、周二闭馆）。魔术酒吧和建筑游船都要提前订，经常售罄。如果三天里同时包含周一和周二，就把第3天的行程提到那个可行的工作日，Loop 那天往后挪到周三。",
+   "stops": [
+    {
+     "time": "Day 1 · 09:30 morning",
+     "name": "Art Institute of Chicago",
+     "reason": "Two hours in the Impressionist wing before the midday crowd.",
+     "reason_zh": "趁中午人潮之前，用两小时看印象派展厅。"
+    },
+    {
+     "time": "Day 1 · 11:45 late morning",
+     "name": "Cloud Gate (\"The Bean\")",
+     "reason": "Directly across from the museum.",
+     "reason_zh": "就在博物馆对面。"
+    },
+    {
+     "time": "Day 1 · 12:15 midday",
+     "name": "Millennium Park (Crown Fountain / Jay Pritzker Pavilion)",
+     "reason": "Crown Fountain and the Gehry bandshell, five minutes on foot.",
+     "reason_zh": "皇冠喷泉和盖里露天音乐厅，步行五分钟。"
+    },
+    {
+     "time": "Day 1 · 12:45 lunch",
+     "name": "Goddess and the Baker",
+     "reason": "33 S Wabash, one block west of the park.",
+     "reason_zh": "33 S Wabash，公园往西一个街区。"
+    },
+    {
+     "time": "Day 1 · 14:00 afternoon",
+     "name": "Chicago Architecture River Cruise (Wendella / CAC First Lady)",
+     "reason": "The best orientation purchase of the trip; docks are ten minutes north.",
+     "reason_zh": "整趟旅程中最值得花的一笔钱，码头往北十分钟。"
+    },
+    {
+     "time": "Day 1 · 15:45 late afternoon",
+     "name": "Chicago Riverwalk / Urban Kayaks",
+     "reason": "Walk back east at river level rather than on the street.",
+     "reason_zh": "沿河岸层往东走回去，别走上面的马路。"
+    },
+    {
+     "time": "Day 1 · 17:00 sunset",
+     "name": "Willis Tower Skydeck",
+     "reason": "The Ledge at golden hour, fifteen minutes southwest.",
+     "reason_zh": "黄昏时段站上玻璃阳台，往西南走十五分钟。"
+    },
+    {
+     "time": "Day 1 · 19:00 dinner",
+     "name": "Portillo's",
+     "reason": "River North flagship, hot dog and Italian beef in one order.",
+     "reason_zh": "River North 旗舰店，一次点齐热狗和意式牛肉。"
+    },
+    {
+     "time": "Day 1 · 20:30 nightcap",
+     "name": "Cindy's Rooftop (Chicago Athletic Association Hotel)",
+     "reason": "Back south to the Loop — the terrace looks straight across at the lit Millennium Park you walked through this morning.",
+     "reason_zh": "回到 Loop 南侧，露台正对早上走过的千禧公园夜景。"
+    },
+    {
+     "time": "Day 2 · 10:00 morning",
+     "name": "Pilsen",
+     "reason": "Pink Line to 18th St, mural corridor west.",
+     "reason_zh": "粉线到18街，沿壁画走廊往西走。"
+    },
+    {
+     "time": "Day 2 · 12:00 lunch",
+     "name": "Rubi's Tacos",
+     "reason": "The mural walk ends at the tacos, not the other way around.",
+     "reason_zh": "先看壁画再吃塔可，顺序别反。"
+    },
+    {
+     "time": "Day 2 · 13:00 second lunch",
+     "name": "Quesabirria Jalisco",
+     "reason": "Split an order of birria ramen a short walk away — search the full name or Maps will miss it.",
+     "reason_zh": "步行不远，分着点一份芝加哥炖牛肉拉面；搜全名，否则地图找不到。"
+    },
+    {
+     "time": "Day 2 · 14:30 afternoon",
+     "name": "Chinatown",
+     "reason": "Red Line one transfer; walk Wentworth Ave end to end.",
+     "reason_zh": "红线转一次；把 Wentworth 大道从头走到尾。"
+    },
+    {
+     "time": "Day 2 · 15:15 snack",
+     "name": "HeungSeng Square (underground food court, formerly Richland Center)",
+     "reason": "The basement hall behind the back stairwell — Xi'an noodles and dumpling counters most visitors never find.",
+     "reason_zh": "后楼梯下去的地下美食广场，西安面食和饺子摊，大多数游客根本找不到。"
+    },
+    {
+     "time": "Day 2 · 16:15 late afternoon",
+     "name": "Ping Tom Memorial Park",
+     "reason": "Five minutes west — pagoda, river, skyline, all in one frame.",
+     "reason_zh": "往西五分钟，亭子、河景、天际线同框。"
+    },
+    {
+     "time": "Day 2 · 18:00 golden hour",
+     "name": "Adler Planetarium (north lawn / Solar Terrace)",
+     "reason": "Red Line to Roosevelt then east; free, unobstructed, and the best skyline shot in the city.",
+     "reason_zh": "红线到 Roosevelt 再往东；免费、无遮挡，全城最好的天际线机位。"
+    },
+    {
+     "time": "Day 2 · 19:30 dinner",
+     "name": "West Loop",
+     "reason": "Green or Pink Line to Morgan — Randolph and Fulton Market carry the whole evening.",
+     "reason_zh": "绿线或粉线到 Morgan 站，Randolph 街和 Fulton Market 撑起一整晚。"
+    },
+    {
+     "time": "Day 3 · 09:00 breakfast",
+     "name": "Do-Rite Donuts",
+     "reason": "West Loop flagship, on the way to the Green Line heading west.",
+     "reason_zh": "西环旗舰店，正好在往西坐绿线的路上。"
+    },
+    {
+     "time": "Day 3 · 10:00 morning",
+     "name": "Garfield Park Conservatory",
+     "reason": "Green Line straight west; two acres under glass, free, and almost no tourists get this far west.",
+     "reason_zh": "绿线一路往西；两英亩的玻璃温室，免费，几乎没有游客会走这么远。"
+    },
+    {
+     "time": "Day 3 · 12:30 lunch",
+     "name": "Logan Square",
+     "reason": "Back east and onto the Blue Line — the Milwaukee Ave strip is a walkable crawl, not a single destination.",
+     "reason_zh": "往东折返换蓝线；Milwaukee 大道是一条可以慢慢逛的街，不是单个景点。"
+    },
+    {
+     "time": "Day 3 · 13:30 dessert",
+     "name": "La Boulangerie & Co",
+     "reason": "On the same strip — one crookie between two people, ratings on it are genuinely mixed.",
+     "reason_zh": "就在同一条街上；两人分一个可颂饼干即可，这家的评分其实有分歧。"
+    },
+    {
+     "time": "Day 3 · 15:30 afternoon",
+     "name": "South Pond Bridge, Lincoln Park",
+     "reason": "East to Lincoln Park; the wooden bridge gives the skyline reflected in the pond, and the zoo next door is free.",
+     "reason_zh": "往东进林肯公园；木桥上能拍到塘中倒影的天际线，隔壁动物园还免费。"
+    },
+    {
+     "time": "Day 3 · 18:00 dinner",
+     "name": "Pequod's Pizza",
+     "reason": "Ten minutes west in the same neighborhood — the caramelized crust edge is the deep dish worth the calories.",
+     "reason_zh": "同区往西十分钟；焦糖化的芝士脆边，是唯一值得这些卡路里的深盘披萨。"
+    },
+    {
+     "time": "Day 3 · 20:00 night",
+     "name": "Chicago Magic Lounge",
+     "reason": "North to Andersonville; enter through the laundromat front, and book weeks ahead.",
+     "reason_zh": "往北到安德森维尔；从洗衣房的门进去，务必提前几周订位。"
+    }
+   ]
+  }
+ ],
+ "skip_list": [
+  {
+   "name": "Navy Pier",
+   "reason": "4.0 across 15,000+ reviews is respectable, not exceptional, and recent visitors say there is little to do beyond walking and eating chain food — the Ferris wheel photo takes an hour, not the half-day every guide budgets.",
+   "reason_zh": "一万五千多条评价平均4.0分，只能算及格而非出色，近期评价普遍说除了散步和吃连锁餐饮没什么可做；摩天轮那张照片一小时就够，不值得像各种攻略说的排半天。"
+  },
+  {
+   "name": "360 CHICAGO (John Hancock Center observation deck) + TILT",
+   "reason": "You are paying an add-on on top of general admission for a ride multiple reviewers clock at about 90 seconds against an advertised three minutes; if you want one deck, Willis Tower Skydeck is the better single purchase.",
+   "reason_zh": "在普通门票之外还要另加钱，而多位游客实测这个倾斜体验只有约90秒，官方却宣传三分钟；如果只上一个观景台，威利斯大厦更划算。"
+  },
+  {
+   "name": "Museum of Ice Cream Chicago",
+   "reason": "$24-30 per adult for candy-colored photo rooms, and the review thread splits hard between delight and 'overrated for the price' — it is a photo set, not a museum.",
+   "reason_zh": "成人票24至30美元，换来的是几间糖果色拍照房，评价明显两极，'价格虚高'的抱怨反复出现——它是布景，不是博物馆。"
+  },
+  {
+   "name": "Tetto",
+   "reason": "Open May through October only, so it fails as a year-round recommendation, and 3.7 on Google across 111 reviews with repeated service complaints is below the bar for a hyped rooftop.",
+   "reason_zh": "只在5月到10月营业，根本谈不上全年推荐；谷歌111条评价3.7分，服务问题被反复提及，对一个被吹得很火的屋顶酒吧来说不合格。"
+  },
+  {
+   "name": "Indiana Dunes National Park (skyline mirage from the beach)",
+   "reason": "The floating-skyline mirage needs a temperature inversion that happens a handful of days a year, and you pay $25 per vehicle to drive 30-50 miles for a phenomenon no trip can guarantee.",
+   "reason_zh": "天际线悬浮的海市蜃楼需要特定的逆温条件，一年只出现有限几天；却要开车三十到五十英里、每车缴25美元门票，去赌一个无法保证的景象。"
+  },
+  {
+   "name": "Frato's Culinary Kitchen (Frato's Pizza)",
+   "reason": "Schaumburg is a 45-60 minute drive each way for a 4.1-rated suburban restaurant, and the 13-inch mozzarella stick that drives the hype is served Sundays only.",
+   "reason_zh": "Schaumburg 单程要开45到60分钟，只为一家评分4.1的郊区餐厅，而带火它的那根13英寸马苏里拉芝士条还只在周日供应。"
+  }
+ ]
+}

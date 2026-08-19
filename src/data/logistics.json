@@ -1,0 +1,78 @@
+{
+ "transit": [
+  {
+   "topic": "How CTA fare works",
+   "detail": "The CTA 'L' and buses use the Ventra fare system. Fares are paid via a Ventra card (reloadable, sold at stations/CVS/Walgreens), the Ventra app (mobile ticket/mobile wallet), or by tapping a contactless bank/credit card or phone wallet (Apple Pay/Google Pay) directly at the reader — no separate card purchase needed. Two free transfers are allowed within 2 hours of the first tap.",
+   "cost": ""
+  },
+  {
+   "topic": "Confirmed single-ride fares (Wikipedia, cross-checked against CTA's public fare structure)",
+   "detail": "Bus: $2.25. Rail (standard 'L' stations): $2.50. Blue Line rides originating at O'Hare carry a $5.00 fare (this includes an airport-specific surcharge, historically about $2.50 added to the standard rail fare — verify the exact current breakdown at transitchicago.com, since CTA's own fares page returned an access error during this research and could not be independently confirmed for exact pass prices).",
+   "cost": "Bus $2.25 / Rail $2.50 / O'Hare Blue Line $5.00"
+  },
+  {
+   "topic": "Multi-day passes",
+   "detail": "CTA offers 1-day, 3-day, 7-day, and 30-day unlimited-ride passes loaded onto a Ventra card or the app. I could not independently verify exact current 2026 prices for these passes — transitchicago.com and ventrachicago.com blocked automated access during this research (403 errors) and my general web search budget was exhausted this session. Check current pricing directly at transitchicago.com/fares or in the Ventra app before you go; as a planning reference, CTA day passes have historically run in the ~$5-$10 (1-day) to ~$28-$33 (7-day) to ~$100-$105 (30-day) range, but treat those as unconfirmed and verify.",
+   "cost": "Check current pricing at transitchicago.com/fares"
+  },
+  {
+   "topic": "O'Hare (Blue Line) to downtown",
+   "detail": "The Blue Line runs 24/7 from O'Hare's terminal station directly to the Loop (Clark/Lake or other downtown stops). Typical ride time is roughly 40-50 minutes depending on time of day and your downtown destination. Fare is $5.00 flat (confirmed above). This is dramatically cheaper than rideshare, which commonly runs $35-$65+ to downtown depending on time/surge — but rideshare is faster (25-45 min without traffic) and door-to-door. For a first-time visitor with luggage arriving off-peak, the Blue Line is very manageable; during rush hour or with heavy bags, factor in walking through the terminal to the station and standing-room-only trains.",
+   "cost": "$5.00 CTA vs. ~$35-65+ rideshare (verify current rideshare pricing at time of travel)"
+  },
+  {
+   "topic": "Midway (Orange Line) to downtown",
+   "detail": "The Orange Line runs from Midway to the Loop, roughly 25-30 minutes, standard rail fare applies (no special airport surcharge confirmed for Midway the way there is for O'Hare — verify). Orange Line does NOT run 24 hours (it has reduced overnight service/gaps unlike the Blue Line) — check current CTA overnight schedule if arriving late at night, since Midway transit access outside normal hours may require rideshare instead.",
+   "cost": "Standard rail fare ($2.50, verify) vs. rideshare typically $25-45"
+  },
+  {
+   "topic": "Contactless tap-to-pay",
+   "detail": "Yes — CTA supports open-loop contactless payment. You can tap a contactless-enabled credit/debit card or a phone/watch wallet (Apple Pay, Google Pay) directly on the Ventra reader at any turnstile or bus farebox without buying a Ventra card first. This is generally the easiest option for a first-time visitor who doesn't want to deal with a separate transit card.",
+   "cost": ""
+  }
+ ],
+ "passes": [
+  {
+   "name": "Chicago CityPASS",
+   "price": "Adult (12+): $144.00 / Child (3-11): $114.00 (verified via citypass.com, current as of this research)",
+   "worth_it": "Includes Shedd Aquarium and Skydeck Chicago (mandatory) plus your choice of 3 more from: Field Museum, 360 CHICAGO, Museum of Science and Industry, Art Institute of Chicago, Adler Planetarium, or Shoreline Sightseeing. Valid 9 days from first use. Do the math before buying: add up individual gate prices for the 5 attractions you'd actually visit — if you genuinely want Shedd + Skydeck + 3 of the others, CityPASS typically saves 40-50% versus buying separately, which is a real discount, not marketing math. But it locks you into visiting all 5, including the 2 mandatory ones — if you don't actually want Shedd Aquarium or Skydeck, or only want 2-3 attractions total, you'll overpay. Best for a 3+ day visit with a genuine museum/attraction itinerary."
+  },
+  {
+   "name": "Go City Chicago — Explorer Pass",
+   "price": "From $109 (choose number of attractions), 30 days from activation to use",
+   "worth_it": "Pick-your-own-number format (e.g., 3, 4, or 5 attractions) from a large list (30+ options including Skydeck, 360 Chicago, Field Museum, Shedd, MSI, Adler, Navy Pier Ferris Wheel, architecture river cruise, walking tours). This is the more honest of the two Go City products for most visitors — you only pay for what you'll use, and it includes some things CityPASS doesn't (river cruise, walking tours). Compare per-attraction cost against buying tickets directly; it tends to pencil out if you hit 3+ mid-to-high-value attractions."
+  },
+  {
+   "name": "Go City Chicago — All-Inclusive Pass",
+   "price": "From $149, duration options at checkout (e.g., 1-5 days)",
+   "worth_it": "This is the one to be skeptical of. It's priced on the assumption you'll cram in 4-6+ attractions per day, which most first-time visitors physically don't do — you're also eating, walking, taking transit, and resting. Go City and CityPASS both make their money on the gap between what you pay and what you actually use. Only worth it if you've already built a real itinerary hitting 5+ paid attractions in the pass window and confirmed the math beats buying separately. If your Chicago trip is 2-3 days with a normal mix of museums, food, and walking around, you will very likely NOT use enough included attractions to break even — buy individual tickets instead."
+  }
+ ],
+ "timing": [
+  "Best months: Late May through early October is the reliable window — June, July, September are the sweet spot (warm, long daylight, all outdoor attractions/river cruises/Navy Pier fully operating, least likely to have a random 40-degree rain day). August is warm but can be humid/hot. Avoid planning an outdoor-heavy itinerary Nov-March.",
+  "Winter reality check: Chicago winter (Dec-Feb, often bleeding into late Nov and March) is a genuine constraint, not a minor inconvenience. Average highs are in the low-to-mid 30s°F, lows commonly in the teens-20s, wind off Lake Michigan makes it feel colder than the thermometer says, and the city gets real snow accumulation. The Architecture River Cruise typically doesn't run in winter (river cruises are seasonal, roughly April/May through October/November — confirm exact 2026 season dates with Chicago Architecture Center or Wendella before booking). Outdoor walking, Navy Pier's outdoor areas, and the 606 trail are all diminished experiences. If you're flexible, winter does mean cheaper hotels and no crowds at museums — but budget for serious cold-weather gear and expect some outdoor plans to get cut.",
+  "Architecture river cruise booking: These sell out on nice-weather weekends in peak season (June-September), especially Saturday/Sunday midday-to-sunset slots. Book at least 1-2 weeks ahead for peak-season weekends; a few days ahead is usually fine for weekday or shoulder-season visits. Confirm current operating season and exact prices directly with the Chicago Architecture Center (architecture.org) or Wendella/Shoreline Sightseeing, as I could not independently verify exact 2026 dates/prices during this research.",
+  "Museum closures: Most major Chicago museums (Art Institute, Field Museum, Shedd, MSI, Adler) are open 7 days a week most of the year with very limited exceptions (typically Thanksgiving and Christmas Day). Some have reduced hours or a single weekday closure seasonally — verify each museum's specific 2026 calendar directly before your trip since I could not confirm current closure schedules with certainty in this research pass.",
+  "Free admission days: Several major museums offer free or discounted days, but READ THE FINE PRINT — many are restricted to Illinois residents only (proof of ID/address required), not general tourists. The Art Institute of Chicago, Field Museum, and others have historically run Illinois-resident-only free days on certain weekdays. As a non-resident first-time visitor, do not plan your trip around free days without first confirming eligibility on the specific museum's website — assume you'll pay standard admission unless you verify otherwise."
+ ],
+ "safety": [
+  "Overall picture: Chicago is a normal major US city for tourism purposes. The areas visitors actually spend time in — the Loop, Near North/Magnificent Mile, River North, Streeterville, Lincoln Park, Lakeview, Wicker Park, West Loop, and Hyde Park — are tourist-standard: busy, well-policed relative to the rest of the city, and comparable in risk profile to equivalent districts in New York, Boston, or DC.",
+  "Correct an overblown claim directly: 'the South Side is dangerous, avoid it' is not accurate geography. Hyde Park (University of Chicago, Museum of Science and Industry, Obama Presidential Center under construction) is a normal, walkable, tourist-frequented South Side neighborhood with a large student and family population. The South Side spans dozens of distinct neighborhoods with very different conditions — treating it as one undifferentiated zone to avoid is both factually wrong and not useful guidance. If you're visiting MSI or Hyde Park, go, and apply the same ordinary precautions you'd use anywhere.",
+  "Ordinary big-city precautions that actually apply: stay aware in less-crowded areas late at night: keep valuables out of sight in parked rental cars (smash-and-grabs from cars are a real, documented issue in Chicago, more so than street crime targeting pedestrians); use rideshare/taxi rather than walking long distances alone after midnight in unfamiliar areas; keep phones and bags secured on CTA, especially near closing time on Red/Blue Line downtown stretches; be more cautious, as in most US cities, around the fringes of downtown late at night (parts of the Loop empty out after office hours).",
+  "What's genuinely worth being mindful of: CTA has had periodic, well-publicized incidents (robberies, occasional violence) on trains, concentrated more on the Red Line and in late-night/early-morning hours — not a reason to avoid transit, but a reason to be more alert late at night the way you would on the NYC subway after midnight. This is a real, non-racialized, transit-specific pattern (time-of-day and line-specific, not neighborhood-demographic-based), distinct from vague 'avoid certain neighborhoods' advice.",
+  "Bottom line: don't let outdated or overblown internet chatter about Chicago crime keep you from a normal itinerary including Hyde Park/MSI. Do lock your rental car and don't leave visible valuables in it, and use common late-night judgment on transit and in unfamiliar areas, same as any major city."
+ ],
+ "money": [
+  "Tipping norms: Restaurants (sit-down, full service): 18-20% is the standard expectation in 2026, with 20%+ increasingly common as the default suggested option on payment screens; 15% reads as a below-average tip. Bars: $1-2 per drink, or 18-20% on a tab. Coffee shops/counter service: tip screens often prompt 15-20-25% even for a to-go order — tipping isn't obligatory here but is increasingly normalized; a couple dollars or skipping it (tap 'no tip' or 'custom') is socially fine for counter service. Rideshare/taxi: 15-20% is standard. Hotel: $2-5/night for housekeeping, $1-2/bag for bellhop.",
+  "Chicago's high combined meals tax — this is a real surprise for visitors: Downtown Chicago restaurant bills carry one of the highest combined tax rates of any major US city. The general Chicago combined sales tax is 10.5% (verified: 6.25% Illinois state + 1.75% Cook County + 1.25% Chicago city + 1.25% RTA). On TOP of that, restaurants in the downtown/Loop area are subject to an additional restaurant tax and, within the designated Metropolitan Pier and Exposition Authority (MPEA) district (which covers most of downtown/the Loop), an additional MPEA restaurant tax. I could not independently verify the exact current add-on percentages during this research (official chicago.gov tax pages returned access errors), but the commonly cited total effective restaurant tax in downtown Chicago has historically landed around 10.75-11.75% total — noticeably higher than the general 10.5% sales tax. Verify the exact current combined restaurant tax rate at chicago.gov's Department of Finance tax pages before budgeting a trip precisely, but plan for your restaurant bill's tax line to run higher than the general sales tax you'd expect elsewhere in the city.",
+  "Service-fee surprises: Many Chicago restaurants, especially in the past few years, have added an automatic 'service charge' or 'kitchen appreciation fee' (commonly 3-5%, sometimes higher) to the bill on top of tax — separate from and in addition to the tip line. This is not universal but common enough that you should read your bill carefully: if a service charge is already added, you generally aren't expected to tip a full 20% on top of it (many diners tip a smaller amount or nothing further when a mandatory service fee is present) — check the receipt language, as some restaurants use the fee to cover kitchen/back-of-house wages while still expecting a separate tip for your server. When in doubt, ask your server directly whether the service charge already covers gratuity."
+ ],
+ "source_urls": [
+  "https://www.citypass.com/chicago",
+  "https://gocity.com/en-us/chicago/",
+  "https://en.wikipedia.org/wiki/Chicago_Transit_Authority",
+  "https://www.avalara.com/taxrates/en/state-rates/illinois/cities/chicago.html",
+  "https://www.ventrachicago.com/fares/",
+  "https://www.choosechicago.com/articles/transportation/getting-around-chicago/"
+ ]
+}

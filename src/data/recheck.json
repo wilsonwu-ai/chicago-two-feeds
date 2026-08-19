@@ -1,0 +1,286 @@
+{
+ "places": [
+  {
+   "name": "Pequod's Pizza",
+   "address": "2207 N Clybourn Ave, Chicago, IL 60614",
+   "status": "open",
+   "rating_note": "Google 4.4 (16,693); Yelp 3.9 (8,971); Tripadvisor 4.2 (1,159)",
+   "closed_days": "None listed — open 7 days (Mon–Sat 11am–2am, Sun 11am–12am)",
+   "reservation": "Accepts reservations via Tock, but walk-ins common; expect a wait (up to 2 hrs) at peak times — there is also a Morton Grove location at 8520 Fernald Ave",
+   "source_urls": [
+    "https://pequodspizza.com/",
+    "https://www.google.com/search?q=Pequod%27s+Pizza+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Au Cheval",
+   "address": "800 W Randolph St, Chicago, IL 60607",
+   "status": "open",
+   "rating_note": "Google 4.7 (12,934); Yelp 4.4 (9,569); Tripadvisor 4.5 (1,335)",
+   "closed_days": "None — open daily",
+   "reservation": "CHANGED: after 14 years of walk-in-only, Au Cheval now accepts limited reservations via Resy/Tock (confirmed via a recent Reddit/Instagram post plus Google listing showing 'Reservations: tripleseat.com, opentable.com'); walk-ins still accepted. Note this for the guide — 'walk-in only' is no longer fully accurate.",
+   "source_urls": [
+    "https://www.google.com/search?q=Au+Cheval+Chicago"
+   ],
+   "changed_since_earlier_research": "Au Cheval recently started accepting reservations (previously walk-in only) — update any guide language that says 'no reservations.'"
+  },
+  {
+   "name": "Wildberry Pancakes & Cafe",
+   "address": "Two Chicago locations: 130 E Randolph St (Prudential Plaza, Loop) and 196 E Pearson St (Water Tower Place); also suburban Oak Brook, Libertyville, Schaumburg locations",
+   "status": "open",
+   "rating_note": "Tripadvisor 4.6 (5,079); Yelp 4.5 (2,182); Facebook 4.7 (619)",
+   "closed_days": "None — open daily 7:00am–2:00pm",
+   "reservation": "No table reservations — walk-in cafe (call-ahead seating may be available at some locations); expect a wait on weekends",
+   "source_urls": [
+    "https://wildberrycafe.com",
+    "https://www.google.com/search?q=Wildberry+Pancakes+and+Cafe+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Girl & The Goat",
+   "address": "809 W Randolph St, Chicago, IL 60607",
+   "status": "open",
+   "rating_note": "Google 4.7 (8,279); Yelp 4.4 (10,727); Tripadvisor 4.6 (3,470)",
+   "closed_days": "None — open 7 days a week",
+   "reservation": "Reservations required/strongly recommended (OpenTable) — official site notes reservations 'always' limited relative to demand",
+   "source_urls": [
+    "https://www.girlandthegoat.com/chicago",
+    "https://www.google.com/search?q=Girl+and+the+Goat+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Momotaro",
+   "address": "820 W Lake St, Chicago, IL 60607",
+   "status": "open",
+   "rating_note": "Google 4.6 (3,921); Yelp 4.1 (1,441); Tripadvisor 4.5 (361)",
+   "closed_days": "Official site and Yelp/OpenTable show dinner service 7 days/week (Mon–Thu, Sun 5–10pm; Fri–Sat 4:30–11pm; Fri lunch 11am–2pm) — no closed day. One Tripadvisor snippet referenced 'closed on Monday' but this conflicts with the restaurant's own site and Yelp/OpenTable hours, which are more current; treat the no-closed-day version as correct.",
+   "reservation": "Reservations required (OpenTable/Tripleseat), especially for the upstairs dining room",
+   "source_urls": [
+    "https://www.momotarochicago.com",
+    "https://www.google.com/search?q=Momotaro+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "The Purple Pig",
+   "address": "444 N Michigan Ave (Upper Level), Chicago, IL 60611",
+   "status": "open",
+   "rating_note": "Google 4.6 (7,470); Yelp 4.3 (9,036); Tripadvisor 4.5 (6,330)",
+   "closed_days": "None — open daily 11am–10pm (Sun opens 10am for brunch per official site)",
+   "reservation": "Reservations available/recommended; walk-ins also accommodated at the bar",
+   "source_urls": [
+    "https://thepurplepigrestaurantgroup.com",
+    "https://www.google.com/search?q=The+Purple+Pig+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Starbucks Reserve Roastery Chicago",
+   "address": "646 N Michigan Ave, Chicago, IL 60611",
+   "status": "open",
+   "rating_note": "Google 4.4 (19,682); Yelp 4.1 (2,341); Tripadvisor 3.8 (321)",
+   "closed_days": "None — open daily (roughly 6:30am–8:30/9:30pm depending on day)",
+   "reservation": "No reservation needed for general café; walk-in, though OpenTable listing exists for their upstairs dining",
+   "source_urls": [
+    "https://www.starbucksreserve.com/en-us/locations/chicago-roastery",
+    "https://www.google.com/search?q=Starbucks+Reserve+Roastery+Chicago"
+   ],
+   "changed_since_earlier_research": "CONFIRMED: this is the world's largest Starbucks and Yelp/Tripadvisor both describe it as five floors (four floors plus a rooftop fifth level) — the earlier claim is accurate."
+  },
+  {
+   "name": "Portillo's River North",
+   "address": "100 W Ontario St, Chicago, IL 60610",
+   "status": "open",
+   "rating_note": "Google 4.4 (24,750); Yelp 3.9 (7,390); Tripadvisor 4.4 (7,400, though one snippet cited only 152 reviews for a shorter list — treat the larger aggregated figure as current)",
+   "closed_days": "None — open daily, late hours (roughly 10am–1am)",
+   "reservation": "None — counter-service fast food, no reservations",
+   "source_urls": [
+    "https://locations.portillos.com/chicago",
+    "https://www.google.com/search?q=Portillo%27s+River+North+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "LH Rooftop",
+   "address": "85 E Wacker Dr, 22nd Floor, Chicago, IL 60601 (LondonHouse Hotel)",
+   "status": "open",
+   "rating_note": "Google 4.2 (3,766); OpenTable 4.1 (219)",
+   "closed_days": "None — open daily, roughly 11am–midnight (bar), food service until 11pm",
+   "reservation": "CORRECTION: it is NOT simply waitlist-only. The venue takes advance reservations through Tock (for the LH on 22 outdoor rooftop level, e.g. 'May reservations are LIVE') and OpenTable (for LH on 21 indoor dining/lunch). Walk-ins are accommodated when space allows, but characterizing it as 'waitlist-only' understates that structured reservations exist and often sell out.",
+   "source_urls": [
+    "https://londonhousechicago.com/rooftop",
+    "https://www.exploretock.com/lhrooftop",
+    "https://www.google.com/search?q=LH+Rooftop+Chicago"
+   ],
+   "changed_since_earlier_research": "CONTRADICTS earlier claim: LH Rooftop is confirmed on the 22nd floor (correct), but it is not accurately described as 'waitlist-only' — it runs a real reservation system (Tock/OpenTable) alongside walk-in waitlist."
+  },
+  {
+   "name": "Lao Sze Chuan (Chinatown)",
+   "address": "2172 S Archer Ave, Chicago, IL 60616 (Chinatown Square Plaza)",
+   "status": "open",
+   "rating_note": "Google 3.9 (1,665); Yelp 3.3 (1,573); Tripadvisor 3.8 (202); Grubhub 4.3 (2,361)",
+   "closed_days": "None found — open daily roughly 10:45am–11:45pm",
+   "reservation": "No reservation required; walk-in / counter ordering also available via delivery apps",
+   "source_urls": [
+    "https://www.google.com/search?q=Lao+Sze+Chuan+Chinatown+Chicago"
+   ],
+   "changed_since_earlier_research": "CONFIRMS earlier claim: Google rating is exactly 3.9, consistent with 'now ~3.9 stars.' Yelp is lower (3.3) with visible service complaints in reviews, also consistent with the 'service complaints' note."
+  },
+  {
+   "name": "Cloud Gate (The Bean)",
+   "address": "201 E Randolph St, Chicago, IL 60602 (Millennium Park / Grainger Plaza)",
+   "status": "open",
+   "rating_note": "Google 4.7 (41,051); Tripadvisor 4.7 (18,327); Yelp 4.6 (993)",
+   "closed_days": "None — public sculpture, no closure days, open daily roughly 6am–11pm",
+   "reservation": "None needed — free, outdoor public art",
+   "source_urls": [
+    "https://www.google.com/search?q=Cloud+Gate+The+Bean+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Art Institute of Chicago",
+   "address": "111 S Michigan Ave, Chicago, IL 60603",
+   "status": "open",
+   "rating_note": "Google 4.8 (38,552); Tripadvisor 4.8 (24,791); Yelp 4.7 (2,490)",
+   "closed_days": "CONFIRMED directly from artic.edu: closed Tuesdays. Hours: Mon 11–5, Tue Closed, Wed 11–5, Thu 11–8, Fri–Sun 11–5.",
+   "reservation": "Timed-entry tickets recommended in advance, not a dining-style reservation",
+   "source_urls": [
+    "https://www.artic.edu",
+    "https://www.google.com/search?q=Art+Institute+of+Chicago+hours"
+   ],
+   "changed_since_earlier_research": "CONFIRMS earlier claim: Tuesday closure verified directly from the museum's own site."
+  },
+  {
+   "name": "Skydeck Chicago (Willis Tower)",
+   "address": "233 S Wacker Dr, Chicago, IL 60606 (103rd floor)",
+   "status": "open",
+   "rating_note": "Google 4.6 (37,312); Tripadvisor 4.3 (18,097); Yelp 3.5 (953)",
+   "closed_days": "None — open daily, roughly 9am–10pm (Saturdays from 8:30am per official site)",
+   "reservation": "Timed tickets recommended; walk-up also possible",
+   "source_urls": [
+    "https://theskydeck.com/plan-a-visit",
+    "https://www.google.com/search?q=Skydeck+Chicago+Willis+Tower"
+   ],
+   "changed_since_earlier_research": "CONFIRMS earlier claim: 103rd floor verified via Google, Tripadvisor, Yelp, and the official site."
+  },
+  {
+   "name": "360 Chicago",
+   "address": "875 N Michigan Ave, 94th Floor, Chicago, IL 60611 (John Hancock/875 N Michigan building, on the Magnificent Mile)",
+   "status": "open",
+   "rating_note": "Google 4.5 (21,099); Tripadvisor 4.0 (491); Yelp 3.9 (1,086)",
+   "closed_days": "None — open daily 9am–11pm (last entry 1 hr prior)",
+   "reservation": "Timed tickets recommended; walk-up possible",
+   "source_urls": [
+    "https://360chicago.com",
+    "https://www.google.com/search?q=360+Chicago+observation+deck"
+   ],
+   "changed_since_earlier_research": "CONFIRMS earlier claim: address (875 N Michigan Ave) is literally on the Magnificent Mile, so 'exits onto the Magnificent Mile' is accurate. Note this is a separate building/attraction from Skydeck (233 S Wacker) — the two should not be conflated."
+  },
+  {
+   "name": "Chicago Riverwalk",
+   "address": "Runs along the south bank of the Chicago River; commonly cited access point 22 E Wacker Dr, Chicago, IL 60601",
+   "status": "open",
+   "rating_note": "Google 4.8 (22,951); Yelp 4.6 (266); Tripadvisor 4.6 (3,193)",
+   "closed_days": "None — public open space, open daily roughly 6am–11pm",
+   "reservation": "None needed — free public walkway",
+   "source_urls": [
+    "https://www.google.com/search?q=Chicago+Riverwalk"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Navy Pier",
+   "address": "600 E Grand Ave, Chicago, IL 60611",
+   "status": "open",
+   "rating_note": "Google 4.6 (88,423)",
+   "closed_days": "Closed on Thanksgiving and Christmas only, per official site (navypier.org); otherwise open daily year-round, hours vary seasonally",
+   "reservation": "Free general admission to the pier; individual attractions (Centennial Wheel, etc.) sell timed tickets",
+   "source_urls": [
+    "https://navypier.org",
+    "https://www.google.com/search?q=Navy+Pier+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Shedd Aquarium",
+   "address": "1200 S DuSable Lake Shore Dr, Chicago, IL 60605",
+   "status": "open",
+   "rating_note": "Google 4.5 (33,336)",
+   "closed_days": "None found in current search — open daily, hours vary by season/day (roughly 9am–5/10pm)",
+   "reservation": "Timed-entry tickets recommended in advance",
+   "source_urls": [
+    "https://www.sheddaquarium.org",
+    "https://www.google.com/search?q=Shedd+Aquarium+Chicago"
+   ],
+   "changed_since_earlier_research": ""
+  },
+  {
+   "name": "Griffin Museum of Science and Industry",
+   "address": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
+   "status": "open",
+   "rating_note": "Google 4.7 (35,811)",
+   "closed_days": "Closed only on Thanksgiving and Christmas, per official site; otherwise open daily 9:30am–4:00pm",
+   "reservation": "Timed tickets recommended",
+   "source_urls": [
+    "https://www.griffinmsi.org/hours",
+    "https://www.google.com/search?q=Griffin+Museum+of+Science+and+Industry"
+   ],
+   "changed_since_earlier_research": "NAME CHANGE to note: this is the renamed 'Griffin Museum of Science and Industry' (formerly Museum of Science and Industry, MSI) — if the guide still says 'Museum of Science and Industry,' consider updating to the current name."
+  },
+  {
+   "name": "Garfield Park Conservatory",
+   "address": "300 N Central Park Ave, Chicago, IL 60624",
+   "status": "open",
+   "rating_note": "Google 4.8 (10,611); Yelp 4.8 (837); Tripadvisor 4.7 (880)",
+   "closed_days": "CONFIRMED directly from garfieldconservatory.org: closed Monday and Tuesday. Wed 10am–8pm (last entry 7:15/7:30pm), Thu–Sun 10am–5pm (last entry 4:15pm).",
+   "reservation": "Free admission; advance reservation recommended per Tripadvisor, not strictly required",
+   "source_urls": [
+    "https://garfieldconservatory.org/visit",
+    "https://www.google.com/search?q=Garfield+Park+Conservatory+Chicago"
+   ],
+   "changed_since_earlier_research": "CONFIRMS earlier claim: Mon–Tue closure verified directly from the conservatory's own site."
+  },
+  {
+   "name": "Phoenix Restaurant (Chinatown) 金凤",
+   "address": "2131 S Archer Ave, Chicago, IL 60616",
+   "status": "open",
+   "rating_note": "Google 4.1 (1,697); Yelp 3.4 (924); Tripadvisor 3.9 (234)",
+   "closed_days": "None found — open daily 10am–9pm",
+   "reservation": "No reservation required; dim sum cart service, walk-in",
+   "source_urls": [
+    "https://www.phoenixrestaurantchicago.com",
+    "https://www.google.com/search?q=Phoenix+Restaurant+Chinatown+Chicago"
+   ],
+   "changed_since_earlier_research": "Address note: it is on Archer Ave (2131 S Archer Ave), not Wentworth — make sure the guide has the correct street."
+  },
+  {
+   "name": "Keung Kee 强记",
+   "address": "COULD NOT VERIFY — no findable Chicago restaurant of this exact name with a current address, hours, or rating",
+   "status": "unknown",
+   "rating_note": "not found",
+   "closed_days": "not found",
+   "reservation": "not found",
+   "source_urls": [
+    "https://www.google.com/search?q=Keung+Kee+Chicago+Chinatown"
+   ],
+   "changed_since_earlier_research": "FLAG: extensive searching (English and Chinese-character queries) surfaced only a well-known Keung Kee 強記美食 in Wan Chai, Hong Kong, plus an unrelated 'Keung Kee BBQ' in Los Angeles, and one vague 6-year-old Facebook mention of a '強記飯店 Keung Kee Restaurant' with no address/hours/rating attached. Google's own autosuggest kept redirecting the query to 'Ken Kee' (2129 S China Pl, Chicago — a different, verifiable restaurant). This strongly suggests the earlier XHS-sourced entry either (a) confused the Hong Kong original with a Chicago spot, (b) meant 'Ken Kee' and the name was transliterated incorrectly, or (c) refers to a very small/informal Chicago eatery with almost no English-language footprint. Recommend dropping this entry from the guide or verifying in person/by phone before including it — sending someone to a possibly nonexistent or long-closed Chicago address is exactly the failure mode to avoid. If the intent was 'Ken Kee,' that restaurant is open, at 2129 S China Pl, Chicago, IL 60616, Google/Yelp rating ~3.7–4.0."
+  },
+  {
+   "name": "MingHin Cuisine (Chinatown) 明轩",
+   "address": "2168 S Archer Ave, Chicago, IL 60616",
+   "status": "open",
+   "rating_note": "Google 4.3 (8,678); Yelp 3.9 (3,176); Tripadvisor 4.2 (497)",
+   "closed_days": "Google/Yelp show open daily (roughly 9am–midnight). Note: one Facebook Q&A claims the Chinatown location is closed Mon–Wed with limited Thu–Sun hours — this conflicts with the current Google/Yelp listings and the official site (which shows an active, six-location, 2026-copyrighted business); treat the daily-open version as current unless verified otherwise by phone.",
+   "reservation": "Reservations accepted via the restaurant's own site; walk-in also common",
+   "source_urls": [
+    "https://www.minghincuisine.com/chinatown",
+    "https://www.google.com/search?q=MingHin+Cuisine+Chinatown+Chicago"
+   ],
+   "changed_since_earlier_research": "Minor internal contradiction found across sources on closed days (see closed_days field) — worth a quick phone confirmation before finalizing the guide."
+  }
+ ]
+}
