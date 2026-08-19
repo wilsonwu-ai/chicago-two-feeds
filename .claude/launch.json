@@ -4,7 +4,7 @@
     {
       "name": "chicago-guide",
       "runtimeExecutable": "sh",
-      "runtimeArgs": ["-c", "exec python3 -m http.server \"${PORT:-8731}\" --directory build"],
+      "runtimeArgs": ["-c", "exec python3 -m http.server \"${PORT:-8731}\" --directory docs"],
       "port": 8731,
       "autoPort": true
     }

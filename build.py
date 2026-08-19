@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Build the Chicago guide into two self-contained targets.
 
-  build/index.html     full standalone document  -> GitHub Pages
-  build/artifact.html  head+body content only    -> Claude Artifact (it supplies the skeleton)
+  docs/index.html      full standalone document  -> GitHub Pages
+  docs/artifact.html   head+body content only    -> Claude Artifact (it supplies the skeleton)
 
 Both inline the subsetted woff2 faces as data URIs, so neither makes an external request.
 """
 import base64, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).parent
-SRC, BUILD = ROOT / "src", ROOT / "build"
+SRC, BUILD = ROOT / "src", ROOT / "docs"
 TEMPLATE = SRC / "page.html"
 
 

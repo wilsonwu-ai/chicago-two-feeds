@@ -38,7 +38,7 @@ requests. Chinese renders through a system font stack.
 ## Build
 
 ```bash
-python3 build.py     # inlines fonts into build/index.html
+python3 build.py     # inlines fonts into docs/index.html
 ```
 
-`build/index.html` is fully self-contained — no external requests, no CDN, no tracking.
+`docs/index.html` is fully self-contained — no external requests, no CDN, no tracking.
