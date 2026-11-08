@@ -6,16 +6,16 @@
 
 /* ---- tokens: light is the complete set; dark redefines tokens only ---- */
 :root{
-  --ground:#E8EAE5; --surface:#F3F4F0; --sunk:#DDE0DA;
-  --ink:#131A20; --ink-2:#4E5960; --ink-3:#5E6970;
-  --rule:#C6CBC4; --rule-soft:#D6DAD3;
-  --flag:#2E7FB8; --star:#C0322A; --lake:#0C3A57;
-  --flag-wash:#DCE8F2; --star-wash:#F2DEDC;
-  --flag-ink:#196AA3; --star-ink:#BB2D25;
-  --shadow:0 1px 0 rgba(19,26,32,.06);
+  --ground:#F5F7FA; --surface:#FFFFFF; --sunk:#D5DCE5;
+  --ink:#14212F; --ink-2:#4C5A6B; --ink-3:#4C5A6B;
+  --rule:#D5DCE5; --rule-soft:#D5DCE5;
+  --flag:#3A86C8; --star:#A8481B; --lake:#0A2942;
+  --flag-wash:#E6ECF3; --star-wash:#FBEEE3;
+  --flag-ink:#0A2942; --star-ink:#A8481B;
+  --shadow:0 1px 0 rgba(20, 33, 47, .06);
 
-  --sans:"InterVar",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"MonoVar",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+  --sans:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono:ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
   --cjk:"PingFang SC","Hiragino Sans GB","Noto Sans SC","Source Han Sans SC","Microsoft YaHei",sans-serif;
 
   --measure:66ch; --rail:128px;
@@ -23,22 +23,22 @@
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
-    --ground:#0E1418; --surface:#151D23; --sunk:#1E272E;
-    --ink:#E6E9E4; --ink-2:#98A5AD; --ink-3:#748189;
-    --rule:#29343B; --rule-soft:#212B32;
-    --flag:#6FB6E4; --star:#E67A70; --lake:#9FD0EE;
-    --flag-wash:#14262F; --star-wash:#2C1B1A;
-    --flag-ink:#6FB6E4; --star-ink:#E67A70;
+    --ground:#081420; --surface:#0E2238; --sunk:#22384F;
+    --ink:#E8EDF3; --ink-2:#9DAEC0; --ink-3:#9daec0;
+    --rule:#22384F; --rule-soft:#22384F;
+    --flag:#6FB4EA; --star:#EE9264; --lake:#A9C2E3;
+    --flag-wash:#13304F; --star-wash:#33231A;
+    --flag-ink:#6FB4EA; --star-ink:#EE9264;
     --shadow:0 1px 0 rgba(0,0,0,.4);
   }
 }
 :root[data-theme="dark"]{
-  --ground:#0E1418; --surface:#151D23; --sunk:#1E272E;
-  --ink:#E6E9E4; --ink-2:#98A5AD; --ink-3:#748189;
-  --rule:#29343B; --rule-soft:#212B32;
-  --flag:#6FB6E4; --star:#E67A70; --lake:#9FD0EE;
-  --flag-wash:#14262F; --star-wash:#2C1B1A;
-  --flag-ink:#6FB6E4; --star-ink:#E67A70;
+  --ground:#081420; --surface:#0E2238; --sunk:#22384F;
+  --ink:#E8EDF3; --ink-2:#9DAEC0; --ink-3:#9daec0;
+  --rule:#22384F; --rule-soft:#22384F;
+  --flag:#6FB4EA; --star:#EE9264; --lake:#A9C2E3;
+  --flag-wash:#13304F; --star-wash:#33231A;
+  --flag-ink:#6FB4EA; --star-ink:#EE9264;
   --shadow:0 1px 0 rgba(0,0,0,.4);
 }
 
@@ -51,8 +51,8 @@ body{
   font-synthesis-weight:none; text-rendering:optimizeLegibility;
   -webkit-font-smoothing:antialiased;
 }
-:lang(zh),html[lang="zh"] body{font-family:var(--cjk)}
-html[lang="zh"] .mono,html[lang="zh"] .rail{font-family:var(--mono)}
+:lang(zh),html[lang="zh"] body{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", var(--cjk), Arial, sans-serif}
+html[lang="zh"] .mono,html[lang="zh"] .rail{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif}
 
 /* ---- language switching ---- */
 html[lang="en"] .zh{display:none}
@@ -68,8 +68,8 @@ a{color:inherit; text-underline-offset:3px; text-decoration-thickness:1px; text-
 a:hover{text-decoration-color:var(--flag)}
 :focus-visible{outline:2px solid var(--flag); outline-offset:3px}
 
-.mono{font-family:var(--mono); font-variant-numeric:tabular-nums}
-.label{font-family:var(--mono); font-size:.66rem; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.mono{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-variant-numeric:tabular-nums}
+.label{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-size:.66rem; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3); font-variant-numeric:tabular-nums}
 .lede{font-size:clamp(1.06rem,2vw,1.28rem); line-height:1.55; color:var(--ink-2); max-width:var(--measure)}
 .prose{max-width:var(--measure); color:var(--ink-2); display:grid; gap:var(--s4)}
 
@@ -92,7 +92,7 @@ a:hover{text-decoration-color:var(--flag)}
 .brand b{font-weight:800; letter-spacing:-.02em; font-size:.98rem; white-space:nowrap}
 .ctrl{display:flex; border:1px solid var(--rule); background:var(--surface)}
 .ctrl button{appearance:none; border:0; background:transparent; cursor:pointer;
-  font-family:var(--mono); font-size:.7rem; letter-spacing:.09em; text-transform:uppercase;
+  font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-size:.7rem; letter-spacing:.09em; text-transform:uppercase;
   color:var(--ink-3); padding:7px 11px; line-height:1}
 .ctrl button+button{border-left:1px solid var(--rule)}
 .ctrl button[aria-pressed="true"]{background:var(--ink); color:var(--ground)}
@@ -107,7 +107,7 @@ a:hover{text-decoration-color:var(--flag)}
   gap:1px; background:var(--rule); border:1px solid var(--rule); margin-top:var(--s7)}
 .stat{background:var(--ground); padding:var(--s4)}
 .stat b{display:block; font-size:1.65rem; font-weight:800; letter-spacing:-.03em;
-  font-family:var(--mono); font-variant-numeric:tabular-nums; line-height:1.1}
+  font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-variant-numeric:tabular-nums; line-height:1.1}
 .stat span{display:block; margin-top:var(--s1)}
 
 /* ---- sections ---- */
@@ -120,7 +120,7 @@ section:first-of-type{border-top:0}
 .entries{display:grid; gap:1px; background:var(--rule); border-block:1px solid var(--rule)}
 .entry{background:var(--ground); display:grid; grid-template-columns:var(--rail) 1fr;
   gap:var(--s5); padding:var(--s5) 0}
-.rail{display:grid; gap:var(--s3); align-content:start; font-family:var(--mono)}
+.rail{display:grid; gap:var(--s3); align-content:start; font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif}
 .grid-coord{font-size:.74rem; color:var(--ink-2); font-variant-numeric:tabular-nums; line-height:1.35}
 .grid-coord span{display:block; color:var(--ink-3); font-size:.63rem; letter-spacing:.1em; text-transform:uppercase}
 .tier{display:flex; gap:3px}
@@ -134,7 +134,7 @@ section:first-of-type{border-top:0}
 .body-col{display:grid; gap:var(--s3); min-width:0}
 .entry-head{display:flex; align-items:baseline; gap:var(--s3); flex-wrap:wrap}
 .entry-head h3{margin:0}
-.zh-name{color:var(--ink-3); font-size:.92rem; font-weight:500; font-family:var(--cjk)}
+.zh-name{color:var(--ink-3); font-size:.92rem; font-weight:500; font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", var(--cjk), Arial, sans-serif}
 .sig{color:var(--ink); font-weight:600}
 .sig::before{content:"→"; color:var(--star); margin-right:8px; font-weight:400}
 .why{color:var(--ink-2)}
@@ -143,7 +143,7 @@ section:first-of-type{border-top:0}
   background:var(--star-wash); padding-block:var(--s2); padding-right:var(--s3)}
 .caveat b{color:var(--star); font-weight:700}
 .meta{display:flex; gap:var(--s3) var(--s4); flex-wrap:wrap; align-items:baseline; padding-top:var(--s1)}
-.meta .rating{font-family:var(--mono); font-size:.72rem; text-transform:none; letter-spacing:0;
+.meta .rating{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-size:.72rem; text-transform:none; letter-spacing:0;
   color:var(--ink-2); font-variant-numeric:tabular-nums; line-height:1.5; flex:1 1 100%; max-width:var(--measure)}
 
 /* ---- tables ---- */
@@ -151,9 +151,9 @@ section:first-of-type{border-top:0}
 table{border-collapse:collapse; width:100%; min-width:520px; font-size:.93rem}
 th,td{text-align:left; padding:11px var(--s4); border-bottom:1px solid var(--rule-soft); vertical-align:top}
 thead th{background:var(--sunk); font-size:.68rem; letter-spacing:.11em; text-transform:uppercase;
-  font-family:var(--mono); color:var(--ink-2); font-weight:400; white-space:nowrap}
+  font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; color:var(--ink-2); font-weight:400; white-space:nowrap}
 tbody tr:last-child td{border-bottom:0}
-td.num{font-family:var(--mono); font-variant-numeric:tabular-nums; white-space:nowrap}
+td.num{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-variant-numeric:tabular-nums; white-space:nowrap}
 
 /* ---- cards / plans ---- */
 .cards{display:grid; gap:1px; background:var(--rule); border:1px solid var(--rule);
@@ -165,7 +165,7 @@ td.num{font-family:var(--mono); font-variant-numeric:tabular-nums; white-space:n
 .stop{display:grid; grid-template-columns:96px 1fr; gap:var(--s4); padding:var(--s4) 0;
   border-top:1px solid var(--rule-soft)}
 .stop:first-child{border-top:0}
-.stop .t{font-family:var(--mono); font-size:.73rem; color:var(--star); letter-spacing:.06em;
+.stop .t{font-family:"Benton Sans", BentonSans, "Public Sans", "Helvetica Neue", Arial, sans-serif; font-size:.73rem; color:var(--star); letter-spacing:.06em;
   text-transform:uppercase; padding-top:3px}
 .stop .n{font-weight:650}
 .stop .r{color:var(--ink-2); font-size:.94rem; margin-top:2px}
@@ -191,6 +191,9 @@ footer .prose{color:var(--ink-3)}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 @media print{.topbar{position:static} .zh,.en{display:block!important}}
 </style>
+<!-- wilson.md brand -->
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300..800;1,300..800&display=swap">
+<link rel="stylesheet" href="wilson.css"><!-- /wilson.md brand -->
 <!-- @/HEAD -->
 
 <!-- @BODY -->
